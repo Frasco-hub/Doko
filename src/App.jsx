@@ -26,11 +26,11 @@ function App() {
     <div className="app-shell">
       <header className="topbar">
         <div>
-          <div className="eyebrow">PRIVATE MARKET INTELLIGENCE</div>
-          <h1>Investor Intelligence</h1>
-          <p>Discover businesses through evidence, analytics and valuation scenarios — not pitch decks alone.</p>
+          <div className="eyebrow">DOKO • PRIVATE MARKET INTELLIGENCE</div>
+          <h1>Doko</h1>
+          <p>Find. Evaluate. Invest.</p>
         </div>
-        <div className="status"><span className="dot" /> MVP research environment</div>
+        <div className="status"><span className="dot" /> Investment intelligence platform</div>
       </header>
 
       <main>

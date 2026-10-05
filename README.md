@@ -1,6 +1,8 @@
-# Investor Intelligence MVP
+# Doko
 
-First modular prototype for an investor-first private-market intelligence platform.
+Find. Evaluate. Invest.
+
+Doko is an investor-first private-market intelligence platform for discovering, evaluating and comparing companies through evidence, analytics and valuation scenarios.
 
 ## Product direction
 - Investor discovers companies rather than companies relying only on pitch outreach.
